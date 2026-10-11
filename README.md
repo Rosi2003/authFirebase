@@ -1,17 +1,28 @@
-# prac_auth
+# Flutter Firebase Authentication App 🚀
 
-A new Flutter project.
+A modern and responsive Flutter application integrated with **Firebase Authentication**, featuring a clean UI with gradient designs and secure login/dashboard workflows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **User Authentication**: Secure Sign-in using Firebase Auth (Email & Password).
+- **Modern UI / UX**: Beautiful gradient backgrounds, customized card designs, and interactive form fields.
+- **Dashboard Screen**: Displays logged-in user details with a dedicated logout flow.
+- **Cross-Platform**: Built to support Web (Chrome) and responsive layouts.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+- **Framework**: Flutter (Dart)
+- **Backend / Auth**: Firebase Authentication
+- **State Management**: Stateful & Stateless Widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Rosi2003/authFirebase.git](https://github.com/Rosi2003/authFirebase.git)
